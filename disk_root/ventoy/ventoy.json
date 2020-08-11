@@ -1,0 +1,113 @@
+{
+    "control": [
+        { "VTOY_DEFAULT_MENU_MODE": "1" },
+        { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/_ISO" }
+    ],
+    "theme": {
+        "file": "/ventoy/theme/poly-dark/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI",
+        "ventoy_left": "5%",
+        "ventoy_top": "95%",
+        "ventoy_color": "#ff0000"
+    },
+    "menu_class": [
+        {
+            "key": "Acronis",
+            "class": "acronis"
+        },
+        {
+            "key": "archlinux-",
+            "class": "archlinux"
+        },
+        {
+            "key": "CentOS-",
+            "class": "centos"
+        },
+        {
+            "key": "clonezilla-",
+            "class": "clonezilla"
+        },
+        {
+            "key": "debian-",
+            "class": "debian"
+        },
+        {
+            "key": "deepin-",
+            "class": "deepin"
+        },
+        {
+            "key": "elementaryos-",
+            "class": "elementaryos"
+        },
+        {
+            "key": "Federa-",
+            "class": "federa"
+        },
+        {
+            "key": "linuxmint-",
+            "class": "linuxmint"
+        },
+        {
+            "key": "macOS",
+            "class": "macosx"
+        },
+        {
+            "key": "openSUSU-",
+            "class": "opensuse"
+        },
+        {
+            "key": "Win7",
+            "class": "windows_7"
+        },
+        {
+            "key": "Win8",
+            "class": "windows_8"
+        },
+        {
+            "key": "Win10",
+            "class": "windows_10"
+        },
+        {
+            "key": "WinXP",
+            "class": "windows_xp"
+        },
+        {
+            "key": "kubuntu-",
+            "class": "kubuntu"
+        },
+        {
+            "key": "lubuntu-",
+            "class": "lubuntu"
+        },
+        {
+            "key": "xubuntu-",
+            "class": "xubuntu"
+        },
+        {
+            "key": "ubuntu-",
+            "class": "ubuntu"
+        },
+        {
+            "dir": "/_ISO/Linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/_ISO/macOS",
+            "class": "macosx"
+        },
+        {
+            "dir": "/_ISO/Utility",
+            "class": "utility"
+        },
+        {
+            "dir": "/_ISO/Windows",
+            "class": "windows"
+        },
+        {
+            "dir": "/_ISO/WinPE",
+            "class": "win_pe"
+        }
+    ]
+}

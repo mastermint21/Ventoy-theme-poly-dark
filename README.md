@@ -1,27 +1,14 @@
-## Poly dark GRUB theme
+# Ventoy theme: Poly Dark
 
-Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Ukrainian
+The [Poly Dark](https://github.com/shvchk/poly-dark) GRUB theme modified
+to be used for my [Ventoy](https://github.com/ventoy/Ventoy) setup.
 
-![](https://i.imgur.com/OHGyR2N.gif)
+## Screenshots
 
-Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](https://i.imgur.com/iKtkLr4.png), [1920×1080](https://i.imgur.com/faGEmp5.png)
+![Screenshot_init](https://raw.githubusercontent.com/jfcherng/ventoy-theme-poly-dark/master/docs/screenshot_init.png)
 
----
+## Installation
 
-### Installation / update
-
-1. **Secure way:**
-    - Download install script:  
-    `wget -P /tmp https://github.com/shvchk/poly-dark/raw/master/install.sh`
-    - Review install script at `/tmp/install.sh`
-    - Run it: `bash /tmp/install.sh`
-
-2. **Easier, less secure way** — just download and run install script:  
-    `wget -O - https://github.com/shvchk/poly-dark/raw/master/install.sh | bash`
-
----
-
-### See also
-
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Fallout GRUB theme](https://github.com/shvchk/fallout-grub-theme)
+- See https://www.ventoy.net/en/plugin_theme.html
+- The `/disk_root/` in this repository means the root of your USB disk.
+- If you only need the theme, just take the `/disk_root/ventoy/theme/poly-dark/`.
