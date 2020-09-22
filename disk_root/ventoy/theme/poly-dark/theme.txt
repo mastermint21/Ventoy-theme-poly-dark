@@ -65,5 +65,5 @@ terminal-border: "0"
   + label {text = "F4: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
   + label {text = "Local Boot    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
   + label {text = "F5: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
-  + label {text = "Debug    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
+  + label {text = "Tools    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
 }
