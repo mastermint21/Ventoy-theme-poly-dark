@@ -70,6 +70,14 @@
             "class": "windows_10"
         },
         {
+            "key": "windows_8",
+            "class": "windows_8"
+        },
+        {
+            "key": "windows_10",
+            "class": "windows_10"
+        },
+        {
             "key": "WinXP",
             "class": "windows_xp"
         },
@@ -88,6 +96,10 @@
         {
             "key": "ubuntu-",
             "class": "ubuntu"
+        },
+        {
+            "key": "ventoy-",
+            "class": "ventoy"
         },
         {
             "dir": "/_ISO/Linux",
