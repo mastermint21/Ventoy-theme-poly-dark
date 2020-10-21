@@ -78,6 +78,10 @@
             "class": "windows_10"
         },
         {
+            "key": "WindowsXP",
+            "class": "windows_xp"
+        },
+        {
             "key": "WinXP",
             "class": "windows_xp"
         },
