@@ -46,6 +46,10 @@
             "class": "federa"
         },
         {
+            "key": "Ghost",
+            "class": "ghost"
+        },
+        {
             "key": "linuxmint-",
             "class": "linuxmint"
         },
@@ -56,6 +60,10 @@
         {
             "key": "openSUSU-",
             "class": "opensuse"
+        },
+        {
+            "key": "Symantec",
+            "class": "symantec"
         },
         {
             "key": "Win7",
