@@ -42,7 +42,7 @@ terminal-border: "0"
 
 # Grub2 messages
 + hbox {
-  top = 85%
+  top = 83%
   left = 20%
   + label {text = "Enter: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
   + label {text = "Boot Selection    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
@@ -54,7 +54,7 @@ terminal-border: "0"
 
 # Ventoy messages
 + hbox {
-  top = 85%+24
+  top = 83%+24
   left = 20%
   + label {text = "F1: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
   + label {text = "Mem Disk    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
@@ -66,4 +66,14 @@ terminal-border: "0"
   + label {text = "Local Boot    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
   + label {text = "F5: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
   + label {text = "Tools    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
+}
+
+# Ventoy messages
++ hbox {
+  top = 83%+48
+  left = 20%
+  + label {text = "F6: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
+  + label {text = "Custom Menu    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
+  + label {text = "F7: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
+  + label {text = "Text/GUI    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
 }
