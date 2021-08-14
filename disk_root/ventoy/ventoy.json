@@ -78,12 +78,24 @@
             "class": "windows_10"
         },
         {
+            "key": "Win11",
+            "class": "windows_11"
+        },
+        {
+            "key": "windows_7",
+            "class": "windows_7"
+        },
+        {
             "key": "windows_8",
             "class": "windows_8"
         },
         {
             "key": "windows_10",
             "class": "windows_10"
+        },
+        {
+            "key": "windows_11",
+            "class": "windows_11"
         },
         {
             "key": "WindowsXP",
