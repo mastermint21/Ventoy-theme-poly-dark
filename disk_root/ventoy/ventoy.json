@@ -2,7 +2,8 @@
     "control": [
         { "VTOY_DEFAULT_MENU_MODE": "1" },
         { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
-        { "VTOY_DEFAULT_SEARCH_ROOT": "/_ISO" }
+        { "VTOY_DEFAULT_SEARCH_ROOT": "/_ISO" },
+        { "VTOY_WIN11_BYPASS_CHECK": "1" }
     ],
     "theme": {
         "file": "/ventoy/theme/poly-dark/theme.txt",
