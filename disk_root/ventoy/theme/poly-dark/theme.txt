@@ -76,4 +76,8 @@ terminal-border: "0"
   + label {text = "Custom Menu    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
   + label {text = "F7: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
   + label {text = "Text/GUI    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
+  + label {text = "h: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
+  + label {text = "Help    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
+  + label {text = "m: " font = "Unifont Regular 18" color = "#00EEEE" align = "left"}
+  + label {text = "Checksum    " font = "Unifont Regular 18" color = "#cccccc" align = "left"}
 }
