@@ -67,6 +67,10 @@
             "class": "symantec"
         },
         {
+            "key": "Win_7",
+            "class": "windows_7"
+        },
+        {
             "key": "Win7",
             "class": "windows_7"
         },
